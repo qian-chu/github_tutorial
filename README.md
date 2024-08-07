@@ -9,8 +9,8 @@ Git is a version control system that lets you manage and keep track of your file
 
 Git can be thought of as a tool that takes snapshots of your files and stores them in a hidden folder called `.git`. This allows you to revert back to previous versions of your files and see the changes you've made. Moreover, if you want to try out different features or make changes to your code, you can create a new branch and work on that branch without affecting the main branch. For, the following materials could be different on another branch:
 
-![alt text](/images/dog.png)
-**"If there are no dogs in Heaven, then when I die I want to go where they went." ― Will Rogers**
+![alt text](/images/cat.jpg)
+**"If there are no cats in Heaven, then when I die I want to go where they went." ― Me**
 
 ## Get a GitHub repo locally
 GitHub is a cloud-based hosting service that lets you manage Git repositories. Similar services include GitLab and Bitbucket. Here we will be focusing on GitHub and introduce what additional features it provides.
