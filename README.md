@@ -29,7 +29,7 @@ For public projects, you can help identify issues and report them to the owner. 
 Check `sample_code.py` and see if you can find any issues. Submit it to the Issues section.
 
 ### Contribute codes
-For public projects, usually you don't have write access to the repository. In this case, you can still make changes to the project by creating a `folk` of the repository. This will create a copy of the repository under your account and you are free to make changes to it.
+For public projects, usually you don't have write access to the repository. In this case, you can still make changes to the project by creating a `fork` of the repository. This will create a copy of the repository under your account and you are free to make changes to it.
 
 Once you are done, you can create a `pull request` to the original repository and ask the owner to review and merge your changes.
 
