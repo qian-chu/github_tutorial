@@ -19,7 +19,6 @@ The simplest way to get a GitHub repository is to download it as a ZIP file. How
 
 To get the full version control features, you need to clone the repository. This will create a local copy of the repository on your computer and allow you to track changes made.
 
-# COLLABORATOR REMOVE THIS LINE PLEASE
 
 ## Ways to contribute to a public project
 
