@@ -3,4 +3,4 @@ b = 2
 c = a + b
 
 # There might be some bug here...
-prit(c)
+print(f'the answer, as you will well remember, is {c}')
